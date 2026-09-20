@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c3c534f3b3e61161accf3892",
+  "owner": "fpxmgqfqx",
+  "repo": "page-b258accaa77245c308165801",
+  "title": "金龙鱼(CTC)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b258accaa77245c308165801",
+      "a": "金龙鱼(CTC)",
+      "b": "2027最新官网",
+      "entity": "金龙鱼(CTC)",
+      "brand": "金龙鱼(CTC)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b968de1088b2b11bebc568774ed1553a0839f7e1f2458c6d89252f35ea572abc",
+      "content": {
+        "primary_entity": "金龙鱼(CTC)",
+        "keyword1": "金龙鱼(CTC)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，订阅导入方式各有说明。",
+          "AI_CLIENTS_TITLE": "客户端按设备匹配",
+          "AI_CLOSING_TEXT": "选好套餐后，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "轻松接入金龙鱼(CTC)",
+          "AI_DESCRIPTION": "，专注海外网络加速与多设备订阅管理，提供基础版、旗舰版与团队版三档方案。基础版每月100GB流量、3台设备，旗舰版每月300GB、5台设备并含IPLC专线游戏加速，团队版每月1000GB、20台设备并支持企业定制路由。按年付更省，适合日常浏览、流媒体播放与团队协作等不同场景。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量和订阅周期三个角度快速了解。",
+          "AI_FEATURES_TITLE": "套餐与设备选购要点",
+          "AI_FEATURE_TEXT_1": "基础版100GB/3台，旗舰版300GB/5台，团队版1000GB/20台，按需选档。",
+          "AI_FEATURE_TEXT_2": "手机、电脑、平板等设备按系统选择客户端，订阅导入流程参考相应文档。",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付更省，长期使用可优先考虑年付方案。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备配客户端",
+          "AI_FEATURE_TITLE_3": "按周期定付费",
+          "AI_GUIDE_INTRO": "三步完成服务选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "金龙鱼(CTC)提供海外网络加速服务，覆盖基础版、旗舰版和团队版三档套餐，支持多设备订阅管理。按设备系统选择客户端，参考文档导入订阅，即可用于流媒体、游戏加速与团队协作等场景。",
+          "AI_HERO_SUBTITLE": "海外加速，多设备订阅",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "多设备订阅管理",
+          "AI_HIGHLIGHT_3": "年付更省费用",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年，按流量与设备数量对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数量，在基础版、旗舰版与团队版之间选择合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统、订阅周期与节点类型满足使用需要。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅，完成配置后即可使用加速服务。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "金龙鱼(CTC)海外加速",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备轻量使用，每月 100GB 流量基本覆盖日常浏览与基础流媒体。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备同时在线，每月 300GB 流量，并针对游戏加速做了 IPLC 专线优化。",
+          "AI_FAQ_ANSWER_3": "按年付比按月支付更划算，例如基础版按年付 150 元，旗舰版按年付 350 元，团队版按年付 850 元。",
+          "AI_FAQ_ANSWER_4": "在对应客户端中新建订阅配置，粘贴订阅地址并更新节点列表，保存后即可选择节点开始使用。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，并提供企业定制路由与专属客户经理服务，适合多人协作场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些设备和使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版在游戏加速方面有什么不同？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付价格差距大吗？",
+          "AI_FAQ_QUESTION_4": "如何在客户端中导入订阅？",
+          "AI_FAQ_QUESTION_5": "团队版支持多少台设备同时在线？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "longwenjob.cn",
+    "host": "longwenjob.cn"
+  },
+  "file_hashes": {
+    "index.html": "e54c660624401e921791cc44c8ef2b022b61e2f866f498a5c0b25f1a90a496d7",
+    "sitemap.xml": "beffb2eace843185c558698e5b72b6a4b6a77a11fc5c0d347539f0de8e252a31",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "324a2ec12484cab6057b0da1d11fae73be895052f37f857b2540460660adb66e",
+    "robots.txt": "a25195d190c965203706847e2b76a61530d5c499aae19a4a6270ff69232f18cf",
+    "c55627b3d84a7625a69500f28fec3d93.txt": "67b745599df0135e9ebe39f80f90f3cd8f6b311a237a46d477eb1833f151e554"
+  },
+  "revision": "526878167d08bb20789d48e7dfac9125a18bd346c1f0d9011c648285f3ac7e81"
+}
